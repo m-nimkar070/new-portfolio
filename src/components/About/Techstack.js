@@ -7,7 +7,7 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
-  DiJava,
+  DiSass ,
 } from "react-icons/di";
 import {
   SiFirebase,
@@ -46,7 +46,7 @@ function Techstack() {
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <DiSass  />
       </Col>
     </Row>
   );

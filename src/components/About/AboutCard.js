@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Mahesh Nimkar </span>
             from <span className="purple"> Maharashtra, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a software developer at Fluid.ai.
             <br />
             I have completed BE in Computer Science and Engineering.
             <br />
